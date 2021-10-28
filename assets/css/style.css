@@ -382,7 +382,7 @@ header .navigation li a:hover {
         background-size: 30px;
         background-position: center;
         background-repeat: no-repeat;
-        z-index: 1000;
+        z-index: 10000;
         transition: ease-in-out .2s;
     }
 
@@ -393,6 +393,7 @@ header .navigation li a:hover {
         background-size: 27px;
         background-position: center;
         background-repeat: no-repeat;
+        z-index: 10000;
     }
     /* === MENU TOGGLE END /// */
 
